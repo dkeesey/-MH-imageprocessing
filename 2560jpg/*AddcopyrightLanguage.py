@@ -1,5 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
+import sys
+
 
 # Set the directory to the current directory
 directory = os.getcwd()
