@@ -6,10 +6,10 @@ input_directory = "./sourceFiles"
 output_directory = "./output"
 
 # Set the desired margin values
-top_margin = 96
-left_margin = 96
-right_margin = 96
-bottom_margin = 192
+top_margin = 15
+left_margin = 15
+right_margin = 15
+bottom_margin = 45
 
 # Set the text and metadata values
 text_content = "©2023 Masumi Hayashi Foundation"
